@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.Form1.resources
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\bin\Debug\imageListKontrola.exe.config
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\bin\Debug\imageListKontrola.exe
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\bin\Debug\imageListKontrola.pdb
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.exe
+C:\Users\ucenik\source\repos\imageListKontrola\imageListKontrola\obj\Debug\imageListKontrola.pdb
